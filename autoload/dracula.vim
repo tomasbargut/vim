@@ -11,7 +11,7 @@ let g:dracula#palette.bgdarker  = ['#220148', 234]
 
 let g:dracula#palette.comment   = ['#6272A4',  61]
 let g:dracula#palette.selection = ['#e90469', 239]
-let g:dracula#palette.subtle    = ['#424450', 238]
+let g:dracula#palette.subtle    = ['#cf06f8', 238]
 
 let g:dracula#palette.cyan      = ['#8BE9FD', 117]
 let g:dracula#palette.green     = ['#50FA7B',  84]
